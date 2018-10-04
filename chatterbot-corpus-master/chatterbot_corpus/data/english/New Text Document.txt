@@ -1,0 +1,47 @@
+hi
+hi there!!
+
+.various cources offered, courses offered , cources offered
+our college offers many cources like btech,mtech,bba,mba,b-pharma and many extra carricular activities.
+
+.fees 
+btech-3,65,480; mba-1,72,740; bba-200000; b-pharma-3,01,000 
+          
+.queries related to hostels and buses
+hostel provide ac as well as non-ac rooms and for allotment of ac rooms ,you have to pay 81400 and for non ac room you have to pay 70000 bus facilities are provided and fee per month is 2000.
+
+.top 5,10,20 companies  visited college last year
+- infosys,tech-mahindra,l&t,lava international,indian army,capgemini,wipro,accenture,dell,adobe,berger,birla soft.
+
+-top package offered by the company in year
+- 3.5 per annum is the top package and is provided by infosys,tech-mahindra,birla and wipro .
+
+-total available in the stream, stream offered by college
+-btech,bba,mba,b-pharma,mtech.
+
+-branches offered btech
+- cs , it , me , civil, ec, en
+
+-duration particular course
+ btech   =    4 years, mba      =   2 years, bba  =       3 years, mtech   =    2 years;  b-pharma  =  3 years
+
+-facilities
+- 24 hours purified clean drinking water(ro) ,ac dinig hall,reading and recreation room , first aid facility ,water heater,24*7 power backup,hostel facilities and also provide bus facility.
+
+-rank of college in list of colleges in india
+- psit has been awarded 1st among all private engineering colleges,in up,10th among all govt. and private institutes in up,33rd amond all the private colleges in india.
+
+-best learning practices college offers
+-college offers practical learning through projectors and also provide lab learning.
+
+- reach , reach college from kanpur central, reach college
+- from kanpur central u have to come to barra bypass,and from there to bhauti nh2 highway.
+
+-btech fees,fees of btech,btech fees
+365480
+
+-mba fees,fees of mba,mba fees
+172740
+
+-bba fees,fees of bba,bba fees
+200000

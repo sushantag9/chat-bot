@@ -1,0 +1,19 @@
+.name of my friends
+sushant suraj swastik sunidhi tushant
+.where are we
+kanpur
+.college
+psit
+.branch
+computer science
+.what are the various cources college offers
+btech bba bca mtech mba 
+our college offers many cources like btech,mtech,bba,mba,b-pharma and many extra carricular activities.
+.fees
+btech 3,65,480 bba 25000 mba 1,72,740
+.btech
+fees 150000
+.bba
+fees 25000
+.best college 
+psit

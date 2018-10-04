@@ -1,0 +1,8 @@
+.name of my friends
+sushant suraj swastik sunidhi tushant
+.where are we
+kanpur
+.what college
+psit
+.branch
+compuetr science
