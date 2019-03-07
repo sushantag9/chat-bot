@@ -7,7 +7,7 @@ from tkinter import ttk
 
 bot = ChatBot('Narad ji')
 
-bot.set_trainer(ListTrainer)
+trainer = ListTrainer(bot)
 def calculate(*args):
     try:
         value =rep.get()
@@ -34,18 +34,19 @@ ttk.Button(mainframe, text="sendTo NaradJi", command=calculate).grid(column=3, r
 ttk.Label(mainframe, text="input").grid(column=3, row=1, sticky=W)
 ttk.Label(mainframe, text=" @@@@@ ").grid(column=1, row=2, sticky=E)
 ttk.Label(mainframe, text=" !!!! ").grid(column=3, row=2, sticky=W)
-for files in os.listdir ('C:/Users/minato\Desktop\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'):
-        data = open ('C:/Users/minato\Desktop\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'+files, 'r').readlines()
-        bot.train(data)
+for files in os.listdir ('C:/Users/minato\Desktop\chat_bot\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'):
+        data = open ('C:/Users/minato\Desktop\chat_bot\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'+files, 'r').readlines()
+        trainer.train(data)
 while True:
-        if req.strip()!= 'bye':
-            reply = bot.get_response(rep.get())
-              
-        if req.strip()== 'bye':
-            print('Bot : bye')
-            break
-        elif req.strip()== 3:
-            print('Bot : Enter something')
+    req = input('You the Guest : ')
+    if req.strip()!= 'bye':
+        reply = bot.get_response(rep.get())
+        print(reply)  
+    elif req.strip()== 'bye':
+        print('Bot : bye')
+        break
+    #elif req.strip()== 3:
+     #   print('Bot : Enter something')
 root.mainloop()
 
 

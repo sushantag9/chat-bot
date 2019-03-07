@@ -25,11 +25,11 @@ bot = ChatBot('Narad ji' ,read_only=True,
               
 )
 bot.set_trainer(ListTrainer)
-for files in os.listdir ('C:/Users/minato\Desktop\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'):
-        data = open ('C:/Users/minato\Desktop\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'+files, 'r').readlines()
+for files in os.listdir ('C:/Users/minato\Desktop\chat_bot\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'):
+        data = open ('C:/Users/minato\Desktop\chat_bot\chatbot\chatterbot-corpus-master\chatterbot_corpus\data\english/'+files, 'r').readlines()
         bot.train(data)
 print(" ")       
-print("@@ type 'bye' without quotes(') in reply to exit @@")
+print("@@ type 'bye' without quotes('') in reply to exit @@")
 print('Narad ji : Dear Guest Thank You for reaching us @ PSIT.')
 print('           How can Narad ji help you')
 while True:

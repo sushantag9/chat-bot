@@ -5,7 +5,7 @@ bot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     database='./database.sqlite3'
 )
-)
+
 bot = ChatBot(
     'Norman',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
